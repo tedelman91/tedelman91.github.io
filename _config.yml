@@ -1,0 +1,35 @@
+# Site settings
+name: Data Driven 
+description: "Tales of Life and Data"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  tedelman91
+twitter_username: tyler_edelman
+linkedin_username: tyleredelman
+blog_url: "/blog"
+email: edelmatj@gmail.com
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars0.githubusercontent.com/u/15324610"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
