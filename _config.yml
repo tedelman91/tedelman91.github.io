@@ -29,7 +29,7 @@ force-https: True
 #############
 
 lang: "en"
-author: "Tyler Edelman"
+author: "tedelman"
 title: "{ Data Driven }"
 description: "Tales of life and data."
 keywords: "Tales of life and data."
