@@ -16,7 +16,7 @@ baseurl:
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: ""
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -103,15 +103,15 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
+email-share: False
+fb-share: False
+twitter-share: False
+linkedin-share: False
 
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
-syntax-highlight: True
+syntax-highlight: False
 
 ############
 # Timeline #
